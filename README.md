@@ -1,1 +1,2 @@
 # Indian_Restaurant_in_New_York
+The main objective of the capstone project is to analyse & select the best location in the city of New York to open a new Indian restaurant. We will use required data science methodologies such as Data Analysis & Data visualization. This project will provide the solutions to answer the business problem of starting a new Indian restaurant in the city. So that the business keep growing in the upcoming years.
